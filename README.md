@@ -8,7 +8,18 @@
 </p>
 
 ### Hello there 👋
-Here are some ideas to get you started:
+## Soy un desarrollador web residenciado en Venezuela, especializado en soluciones WordPress / Woocommerce.
+
+#### Productos Digitales de alta calidad desarrollados con un enfoque de ganancia orgánica.
+
+## Más de 6 años de experiencia, transformando negocios digitales y sirviendo a través de la web, me hacen condensar mi conocimiento en los siguientes renglones.
+
+- 💻 Desarrollo Web en WordPress > Tu solucion digital, lista para llevar en pocos días.
+- 🛒 Desarrollo de E-commerce > Tu tienda online adaptada a tu modelo de negocio.
+- 🔌 Desarrollo de Plugins en WordPress > Agreguemos a tu WordPress soluciones integrales para tu negocio.
+- 🖥️ Maquetado Web en HTML5 > Armemos ese diseño en una interfaz "Pixel Perfect".
+- 🌐 Posicionamiento SEO OnSite > Vamos a hacerte aparecer de primero en Google.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
