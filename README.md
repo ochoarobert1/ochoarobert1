@@ -1,4 +1,4 @@
-# [![Robert Ochoa header](github.jpg)](https://robertochoa.com.ve)
+# [![Robert Ochoa header](https://github.com/ochoarobert1/ochoarobert1/blob/master/github.jpg)](https://robertochoa.com.ve)
 <hr>
 <p align="center">
     <a href="https://www.facebook.com/robertochoaweb"><img height="30" src="https://github.com/ochoarobert1/ochoarobert1/blob/master/facebook.png?raw=true"></a>&nbsp;&nbsp;
