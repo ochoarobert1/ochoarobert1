@@ -6,10 +6,9 @@
     <a href="https://www.linkedin.com/in/ochoarobert1/"><img height="30" src="https://github.com/ochoarobert1/ochoarobert1/blob/master/linkedin.png?raw=true"></a>
 </p>
 
-<hr>
-#### Hello there 👋
+### Hello there 👋
 
-## Soy un desarrollador web residenciado en **Venezuela 🇻🇪**, especializado en soluciones **WordPress / Woocommerce**.
+## Soy un desarrollador web residenciado en **Venezuela**, especializado en soluciones **WordPress / Woocommerce**.
 
 Productos Digitales de alta calidad desarrollados con un enfoque de ganancia orgánica.
 
