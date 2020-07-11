@@ -1,9 +1,13 @@
-![alt tag](http://robertochoa.com.ve/github.jpg)
-### Hi there 👋
+# [![Robert Ochoa header](github.jpg)](https://robertochoa.com.ve)
+<hr>
+<p align='center'>
+# [![Robert Ochoa facebook](facebook.jpg)](https://www.facebook.com/robertochoaweb)
+# [![Robert Ochoa twitter](twitter.jpg)](https://twitter.com/choarobert1)
+# [![Robert Ochoa instagram](instagram.jpg)](https://www.instagram.com/ochoarob1)
+# [![Robert Ochoa linkedin](linkedin.jpg)](https://www.linkedin.com/in/ochoarobert1/)
+</p>
 
-<!--
-**ochoarobert1/ochoarobert1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hello there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
