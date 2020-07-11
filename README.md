@@ -1,11 +1,11 @@
 # [![Robert Ochoa header](github.jpg)](https://robertochoa.com.ve)
 <hr>
-
-# [![Robert Ochoa facebook](facebook.jpg)](https://www.facebook.com/robertochoaweb)
-# [![Robert Ochoa twitter](twitter.jpg)](https://twitter.com/choarobert1)
-# [![Robert Ochoa instagram](instagram.jpg)](https://www.instagram.com/ochoarob1)
-# [![Robert Ochoa linkedin](linkedin.jpg)](https://www.linkedin.com/in/ochoarobert1/)
-
+<p align="center">
+    <a href="https://www.facebook.com/robertochoaweb"><img height="30" src="https://github.com/ochoarobert1/ochoarobert1/blob/master/facebook.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/choarobert1"><img height="30" src="https://github.com/ochoarobert1/ochoarobert1/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/ochoarob1"><img height="30" src="https://github.com/ochoarobert1/ochoarobert1/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/ochoarobert1/"><img height="30" src="https://github.com/ochoarobert1/ochoarobert1/blob/master/linkedin.png?raw=true"></a>
+</p>
 
 ### Hello there 👋
 Here are some ideas to get you started:
