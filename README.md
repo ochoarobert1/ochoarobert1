@@ -1,4 +1,4 @@
-![alt tag](github.jpg)
+![alt tag](http://robertochoa.com.ve/github.jpg)
 ### Hi there 👋
 
 <!--
