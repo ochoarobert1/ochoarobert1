@@ -1,11 +1,11 @@
 # [![Robert Ochoa header](github.jpg)](https://robertochoa.com.ve)
 <hr>
-<p align='center'>
+
 # [![Robert Ochoa facebook](facebook.jpg)](https://www.facebook.com/robertochoaweb)
 # [![Robert Ochoa twitter](twitter.jpg)](https://twitter.com/choarobert1)
 # [![Robert Ochoa instagram](instagram.jpg)](https://www.instagram.com/ochoarob1)
 # [![Robert Ochoa linkedin](linkedin.jpg)](https://www.linkedin.com/in/ochoarobert1/)
-</p>
+
 
 ### Hello there 👋
 Here are some ideas to get you started:
