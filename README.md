@@ -6,13 +6,11 @@
     <a href="https://www.linkedin.com/in/ochoarobert1/"><img height="30" src="https://github.com/ochoarobert1/ochoarobert1/blob/master/linkedin.png?raw=true"></a>
 </p>
 
-### Hello there 👋
+Full-Stack Web Developer, residenciado en Venezuela, con experiencia haciendo soluciones web por más de 9 años.
 
-## Soy un desarrollador web residenciado en **Venezuela**, especializado en soluciones **WordPress / Woocommerce**.
+Experto creando websites bajo WordPress / Woocommerce y Sistemas bajo Laravel/Vue.js.
 
-Productos Digitales de alta calidad desarrollados con un enfoque de ganancia orgánica.
-
-Más de **6 años de experiencia**, transformando negocios digitales y sirviendo a través de la web, me hacen condensar mi conocimiento en los siguientes renglones.
+Creo, con tu ayuda, productos digitales de alta calidad con un enfoque de ganancia orgánica.
 
 - 💻 **Desarrollo Web en WordPress** > Tu solucion digital, lista para llevar en pocos días.
 - 🛒 **Desarrollo de E-commerce** > Tu tienda online adaptada a tu modelo de negocio.
@@ -22,5 +20,4 @@ Más de **6 años de experiencia**, transformando negocios digitales y sirviendo
 
 <hr>
 
-- 🔭 **Conocimiento:** WordPress / Woocommerce / Vue.js / Nginx / PHP / Docker
-- 🌱 **Aprendiendo:** React / React Native
+- 🔭 **Conocimiento:** WordPress / Woocommerce / Gatsby.js / Vue.js / Nginx / PHP / Docker
