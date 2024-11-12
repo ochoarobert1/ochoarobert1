@@ -6,8 +6,10 @@
     <a href="https://www.linkedin.com/in/ochoarobert1/"><img height="30" src="https://github.com/ochoarobert1/ochoarobert1/blob/master/linkedin.png?raw=true"></a>
 </p>
 
-Desarrollador Web Full-Stack 
-Experto en WordPress / Woocommerce 
+Desarrollador Web Full-Stack
+
+Experto en WordPress / Woocommerce
+
 9 años de experiencia creando productos digitales de alta calidad
 
 Los Teques / Venezuela
