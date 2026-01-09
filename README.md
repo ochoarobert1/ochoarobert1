@@ -10,7 +10,7 @@ Desarrollador Web Full-Stack
 
 Experto en WordPress / Woocommerce
 
-10 años de experiencia creando productos digitales de alta calidad
+11 años de experiencia creando productos digitales de alta calidad
 
 Los Teques / Venezuela
 
